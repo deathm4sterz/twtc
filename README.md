@@ -1,2 +1,2 @@
 # twtc
-The "WHAT THE" Cup
+Welcome to The WHAT THE Cup!
